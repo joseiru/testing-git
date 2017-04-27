@@ -1,0 +1,15 @@
+body {
+  background-color: #8351BC;
+}
+
+.first-div {
+    width: 400px;
+    height: 200px;
+    background-color: #00D1AE;
+}
+
+.second-div {
+    width: 100px;
+    height: 200px;
+    background-color: red;
+}
